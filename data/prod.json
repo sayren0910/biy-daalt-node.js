@@ -1,0 +1,57 @@
+{
+    "success": true,
+    "getAllproduct": [
+        {
+            "like": 0,
+            "_id": "64bcc77a7d21b59b8779b4b8",
+            "name": "blackpink",
+            "type": "kpop",
+            "music": "solo",
+            "genre": "64bcc4372f2c1d4e38d7b9af",
+            "__v": 0
+        },
+        {
+            "like": 0,
+            "_id": "64bd8cd9ae42100c477d94e4",
+            "name": "blackpink",
+            "type": "kpop",
+            "music": "solo",
+            "genre": "64bcc4372f2c1d4e38d7b9af",
+            "__v": 0
+        },
+        {
+            "like": 0,
+            "_id": "64bea9135c63b5c82bc75746",
+            "name": "twice",
+            "type": "kpop",
+            "song": "set me free",
+            "genre": "64bde67282639ad1f82f1ca0",
+            "__v": 0
+        },
+        {
+            "like": 0,
+            "_id": "64beaa3d09f7915a90287de2",
+            "name": "twice",
+            "type": "kpop",
+            "song": "titi",
+            "genre": "64bde67282639ad1f82f1ca0",
+            "__v": 0
+        },
+        {
+            "_id": "64c35aafe2ee362390b2d83c",
+            "name": "twice",
+            "type": "kpop",
+            "song": "ice gream",
+            "genre": "64bde67282639ad1f82f1ca0",
+            "__v": 1
+        },
+        {
+            "_id": "64c3f50834943cf84fc1bfd5",
+            "name": "twice",
+            "type": "kpop",
+            "song": "ice gream",
+            "genre": "64bde67282639ad1f82f1ca0",
+            "__v": 0
+        }
+    ]
+}
